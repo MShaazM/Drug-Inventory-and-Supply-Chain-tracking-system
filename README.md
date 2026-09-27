@@ -114,4 +114,3 @@ Built for Smart India Hackathon 2026.
 
 ---
 
-*Note: `.streamlit/secrets.toml` contains your API key and should never be committed. Make sure it's listed in `.gitignore`.*
